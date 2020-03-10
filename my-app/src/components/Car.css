@@ -1,0 +1,66 @@
+
+.allprices {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1ch;
+    padding-right: 1ch;;
+  }
+  
+  .price {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 18px;
+  }
+  
+  .oldprice {
+    text-decoration: line-through;
+    color: grey;
+    font-size: 13px;
+  }
+  
+  .save {
+    font-size: 12px;
+    color: teal;
+  }
+  
+  .prices {
+    color:white;
+    border: 1px solid;
+    border-radius:3px;
+    background-color: teal;
+    font-size: 14px;
+    padding-left: 1ch;
+    padding-right: 1ch;
+  }
+  
+  .card {
+    border: 1px solid;
+    border-radius: 2%;
+    border-color: grey;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image1 {
+    border-radius: 2%;
+  }
+  
+  .name {
+    font-size: 20px;
+    color:rgba(0, 162, 255, 0.699);
+    padding-left: 1ch;
+  }
+  
+  .info {
+    font-size: 16px;
+    color: grey;
+    padding-left: 1ch;
+  }
+  
+  .brand {
+    color: teal;
+    padding-top: 1ch;
+    padding-left: 1ch;
+  }
+  
+  
